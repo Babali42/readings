@@ -11,6 +11,7 @@
 - [Grokking functional programming ](https://www.manning.com/books/grokking-functional-programming) - Michał Płachta
 - [Unit testing : Principles practices and patterns](https://www.manning.com/books/unit-testing) - Vladimir Korikhov
 - [Writing for developers](https://www.manning.com/books/writing-for-developers) - Piotr Sarna and Cynthia Dunlop
+- [Itérations Product(ives)](https://itprod.fr/) - Colin Damon
 
 ## TODO :
 
